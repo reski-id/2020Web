@@ -51,8 +51,8 @@
           C#
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="c#_c#.php">C#</a>
-          <a class="dropdown-item" href="c#_asp.php">ASP.Net</a>
+          <a class="dropdown-item" href="csh_csh.php">C#</a>
+          <a class="dropdown-item" href="csh_asp.php">ASP.Net</a>
         </div>
       </li>
     </ul>
