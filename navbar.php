@@ -46,6 +46,15 @@
           <a class="dropdown-item" href="py.php">Python</a>
         </div>
       </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="py.php" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          C#
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="c#_c#.php">C#</a>
+          <a class="dropdown-item" href="c#_asp.php">ASP.Net</a>
+        </div>
+      </li>
     </ul>
   </div>
 </nav>
