@@ -15,11 +15,16 @@
 <div class="container">
 <div class="rows">
 <div class="jumbotron">
-  <h1 class="display-4">Hello, world!</h1>
-  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <h1 class="display-4"><code>Python</code></h1>
+  <p class="lead">Python is an interpreted, high-level, general-purpose programming language</p>
   <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+  <ol>
+  <li>1</li>
+  <li>2</li>
+  <li>4</li>
+  <li>6</li>
+  <li>8</li>
+  </ol>
 </div>
 </div>
 </div>

@@ -15,11 +15,16 @@
 <div class="container">
 <div class="rows">
 <div class="jumbotron">
-  <h1 class="display-4">Hello, world!</h1>
-  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <h1 class="display-4"><code>Bootstrap</code></h1>
+  <p class="lead">Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.</p>
   <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+  <ol>
+  <li>1</li>
+  <li>2</li>
+  <li>4</li>
+  <li>6</li>
+  <li>8</li>
+  </ol>
 </div>
 </div>
 </div>

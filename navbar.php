@@ -42,8 +42,9 @@
           Python
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Djanggo</a>
-          <a class="dropdown-item" href="py.php">Python</a>
+          <a class="dropdown-item" href="py_djanggo.php">Djanggo</a>
+          <a class="dropdown-item" href="py_phython.php">Python</a>
+          <a class="dropdown-item" href="py_ds.php">DataScience</a><a class="dropdown-item" href="py_ml.php">Machine Learning</a>
         </div>
       </li>
       <li class="nav-item dropdown">

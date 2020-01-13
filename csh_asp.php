@@ -15,8 +15,8 @@
 <div class="container">
 <div class="rows">
 <div class="jumbotron">
-  <h1 class="display-4"><code>C#</code></h1>
-  <p class="lead">C# was designed by Anders Hejlsberg, and its development team is currently led by Mads Torgersen.</p>
+  <h1 class="display-4"><code>ASP.Net</code></h1>
+  <p class="lead">ASP.NET is an open-source server-side web application framework designed for web development to produce dynamic web pages developed by Microsoft to allow programmers to build dynamic web sites, applications and services</p>
   <hr class="my-4">
   <ol>
   <li>1</li>
