@@ -10,8 +10,9 @@
           PHP
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="ci.php">Code Igniter</a>
-          <a class="dropdown-item" href="php.php">Laravel</a>
+        <a class="dropdown-item" href="php.php">PHP7</a>
+          <a class="dropdown-item" href="php_ci.php">Code Igniter</a>
+          <a class="dropdown-item" href="php_laravel.php">Laravel</a>
         </div>
       </li>
       <li class="nav-item dropdown">
@@ -19,18 +20,21 @@
         Javascript
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="js.php">Vanilla JS</a>
-          <a class="dropdown-item" href="js.php">React</a>
-          <a class="dropdown-item" href="js.php">Vue</a>
+          <a class="dropdown-item" href="js_vanilla.php">Vanilla JS</a>
+          <a class="dropdown-item" href="js_react.php">React</a>
+          <a class="dropdown-item" href="js_vue.php">Vue</a>
+          <a class="dropdown-item" href="js_angular.php">Angular</a>
+          <a class="dropdown-item" href="js_node.php">Node</a>
         </div>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           CSS
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Sass</a>
-          <a class="dropdown-item" href="#">Bootstrap</a>
+          <a class="dropdown-item" href="css_sass.php">Sass</a>
+          <a class="dropdown-item" href="css_css.php">CSS</a>
+          <a class="dropdown-item" href="css_boostrapt.php">Bootstrap</a>
         </div>
       </li>
       <li class="nav-item dropdown">
