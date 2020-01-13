@@ -19,11 +19,13 @@
   <p class="lead">CSS describes how HTML elements are to be displayed on screen, paper, or in other media.</p>
   <hr class="my-4">
   <ol>
-  <li>1</li>
-  <li>2</li>
-  <li>4</li>
-  <li>6</li>
-  <li>8</li>
+  <li>HTML 5 Element</li>
+  <li>Positioning</li>
+  <li>Box Model</li>
+  <li>Flex Box</li>
+  <li>Grid</li>
+  <li>Media Query</li>
+  <li>Rem Unit</li>
   </ol>
 </div>
 </div>

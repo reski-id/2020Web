@@ -10,7 +10,7 @@
           PHP
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-        <a class="dropdown-item" href="php.php">PHP7</a>
+        <a class="dropdown-item" href="php.php">PHP</a>
           <a class="dropdown-item" href="php_ci.php">Code Igniter</a>
           <a class="dropdown-item" href="php_laravel.php">Laravel</a>
         </div>
@@ -32,9 +32,9 @@
           CSS
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="css_sass.php">Sass</a>
-          <a class="dropdown-item" href="css_css.php">CSS</a>
-          <a class="dropdown-item" href="css_boostrapt.php">Bootstrap</a>
+        <a class="dropdown-item" href="css_css.php">CSS</a>
+        <a class="dropdown-item" href="css_sass.php">Sass</a>
+        <a class="dropdown-item" href="css_boostrapt.php">Bootstrap</a>
         </div>
       </li>
       <li class="nav-item dropdown">

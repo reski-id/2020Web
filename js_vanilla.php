@@ -19,11 +19,20 @@
   <p class="lead">Vanilla.js depends on no packages and requires zero build tools.</p>
   <hr class="my-4">
   <ol>
-  <li>1</li>
-  <li>2</li>
-  <li>4</li>
-  <li>6</li>
-  <li>8</li>
+  <li>Data Types</li>
+  <li>Function</li>
+  <li>Conditional</li>
+  <li>Loop</li>
+  <li>DOM Manipulation</li>
+  <li>Fetch API and JASON</li>
+  <li>ES6</li>
+      <ol>
+      <li>Arrow Function</li>
+      <li>Promise</li>
+      <li>Async/Await</li>
+      <li>Destructuring</li>
+      <li>Template String</li>
+      </ol>
   </ol>
 </div>
 </div>
