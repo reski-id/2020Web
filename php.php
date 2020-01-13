@@ -19,11 +19,10 @@
   <p class="lead">PHP is a popular general-purpose scripting language that is especially suited to web development.</p>
   <hr class="my-4">
   <ol>
-  <li>1</li>
-  <li>2</li>
-  <li>4</li>
-  <li>6</li>
-  <li>8</li>
+  <li>Data Types</li>
+  <li>Function</li>
+  <li>Conditional</li>
+  <li>Loop</li>
   </ol>
 </div>
 </div>
