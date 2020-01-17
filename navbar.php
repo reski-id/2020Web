@@ -11,7 +11,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
         <a class="dropdown-item" href="php.php">PHP</a>
-          <a class="dropdown-item" href="php_ci.php">Code Igniter</a>
+          <a class="dropdown-item" href="php_ci.php">CodeIgniter</a>
           <a class="dropdown-item" href="php_laravel.php">Laravel</a>
         </div>
       </li>
@@ -55,6 +55,12 @@
           <a class="dropdown-item" href="csh_csh.php">C#</a>
           <a class="dropdown-item" href="csh_asp.php">ASP.Net</a>
         </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="golang.php">Golang</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="ruby.php">Ruby</a>
       </li>
     </ul>
   </div>
